@@ -1,0 +1,22 @@
+body {
+    background-color:bisque;
+    color:black;
+  }
+  
+  nav-bar{
+    position: relative;
+    top: 20cm;
+  }
+  
+  description {
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+    color:brown ;
+    font-size:3px;
+  }
+ table{
+    background-color:lightsalmon;
+    text-align: center;
+    
+
+  }
